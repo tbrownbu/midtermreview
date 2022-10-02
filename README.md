@@ -11,6 +11,9 @@ Review the in class powerpoints and textbook, as well as projects that we have w
 Make sure you know how to:
 
 create a virtual environment, install a library, and how to ignore that virtual environment in a .gitignore
+
 Clone a repository from GitHub
+
 Add a remote to your own repository
+
 Push to your repository
